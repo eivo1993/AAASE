@@ -1,0 +1,8 @@
+langgraph
+langchain-core
+openai
+google-api-python-client
+cryptography<44
+streamlit
+python-dotenv
+pydantic
